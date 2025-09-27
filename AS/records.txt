@@ -1,0 +1,1 @@
+NAME=fibonacci.com VALUE=fs TTL=10
